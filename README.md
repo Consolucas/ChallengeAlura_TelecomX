@@ -3,10 +3,6 @@
 **Análise de Evasão de Clientes em Telecomunicações**  
 *por Lucas Nathan Consolo*
 
-<div align="center">
-  <img src="https://img.freepik.com/free-vector/data-analytics-concept-illustration_114360-7406.jpg" width="80%">
-</div>
-
 ## 🏆 Certificação Alura ONE
 <div align="center">
   <a href="https://cdn1.gnarususercontent.com.br/1/853787/bb9b4a07-c633-4b9d-a934-544b9b96d915.png">
